@@ -32,7 +32,10 @@ fn main() {
         match guess.cmp(&secret_number) {
             Ordering::Less => println!("Too low!"), // if the guess is less than the secret number, print "Too low!".
             Ordering::Greater => println!("Too high!"), // if the guess is greater than the secret number, print "Too high!".
-            Ordering::Equal => println!("Congratulations! You guessed the secret number!"), // if the guess is equal to the secret number, print "Congratulations! You guessed the secret number!".
+            Ordering::Equal => {
+                println!("Congratulations! You guessed the secret number! You Win!"); // if the guess is equal to the secret number, print "Congratulations! You guessed the secret number! You Win!".
+                break;
+            }
         }
     }
 }
