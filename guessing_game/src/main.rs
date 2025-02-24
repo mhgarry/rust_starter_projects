@@ -26,7 +26,10 @@ fn main() {
             .read_line(&mut guess) // read_line takes the user input and stores it in the guess variable.
             .expect("Failed to read line"); // expect is a method that handles errors. If an error occurs, it will print the message provided.
 
-        let guess: u32 = guess.trim().parse().expect("Please type a number!"); // parse the user input to an unsigned 32-bit integer.
+        let guess: u32 = match guess.trim().parse() {
+            Ok(num) => num,
+            Err(_) => continue,
+        };
 
         println! {"You guessed: {guess}"}; // print the user's guess.
         match guess.cmp(&secret_number) {
