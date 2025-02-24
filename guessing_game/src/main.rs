@@ -12,6 +12,7 @@ fn main() {
     println!("Please enter your guess:");
 
     let mut guess = String::new(); // mut indicates a mutable variable in Rust (default is immutable) for dynamic user input.
+    // generate a random secret number between 1 and 100 that the user will try to guess.
 
     io::stdin()
         .read_line(&mut guess) // read_line takes the user input and stores it in the guess variable.
