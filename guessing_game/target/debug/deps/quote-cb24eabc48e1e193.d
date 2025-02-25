@@ -1,0 +1,11 @@
+/Users/matthewgarry/rust_starter_projects/guessing_game/target/debug/deps/libquote-cb24eabc48e1e193.rmeta: /Users/matthewgarry/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/lib.rs /Users/matthewgarry/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/ext.rs /Users/matthewgarry/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/format.rs /Users/matthewgarry/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/ident_fragment.rs /Users/matthewgarry/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/to_tokens.rs /Users/matthewgarry/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/runtime.rs /Users/matthewgarry/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/spanned.rs
+
+/Users/matthewgarry/rust_starter_projects/guessing_game/target/debug/deps/quote-cb24eabc48e1e193.d: /Users/matthewgarry/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/lib.rs /Users/matthewgarry/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/ext.rs /Users/matthewgarry/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/format.rs /Users/matthewgarry/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/ident_fragment.rs /Users/matthewgarry/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/to_tokens.rs /Users/matthewgarry/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/runtime.rs /Users/matthewgarry/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/spanned.rs
+
+/Users/matthewgarry/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/lib.rs:
+/Users/matthewgarry/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/ext.rs:
+/Users/matthewgarry/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/format.rs:
+/Users/matthewgarry/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/ident_fragment.rs:
+/Users/matthewgarry/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/to_tokens.rs:
+/Users/matthewgarry/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/runtime.rs:
+/Users/matthewgarry/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/spanned.rs:
